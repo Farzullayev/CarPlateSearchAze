@@ -1,0 +1,14 @@
+{
+  "name": "nomreaxtaris",
+  "version": "1.0.0",
+  "description": "Nömrə üzrə axtarış aparır",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Ibrahim Farzullazade",
+  "license": "MIT",
+  "dependencies": {
+    "nomreaxtaris": "^1.0.0"
+  }
+}
